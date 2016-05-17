@@ -1,0 +1,14 @@
+body{
+
+	
+  background-color: purple;
+  
+}
+p{
+	text-align: justify;
+	text-indent: 40px;
+}
+
+figure.foto{
+	border: 2px solid purple;
+}
